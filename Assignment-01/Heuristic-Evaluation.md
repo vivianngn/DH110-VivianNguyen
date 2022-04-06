@@ -121,7 +121,7 @@ Immediately, when you enter the website, you are seeing too much. The videos on 
 
 > **Solution**: Remove videos, or have one video displayed at a time at the side.
 
-### 0****9.  Help Users Recognize, Diagnose, and Recover from Errors****
+### 09.  Help Users Recognize, Diagnose, and Recover from Errors
 
 **Problem: No error message when typing invalid input** (Rating: 2)
 
@@ -130,3 +130,11 @@ Immediately, when you enter the website, you are seeing too much. The videos on 
 This search bar only shows results when your input matches what they have in the database, but if you type something that doesn’t match anything, nothing tells you that.
 
 > **Solution:** Add a message saying “Does not match any results.”
+
+### 10.  Help and Documentation
+
+**Problem: No onboarding** (Rating: 1)
+
+There are no guides on the process on finding a teacher and booking the lessons.
+
+> **Solution:** Add an onboarding for new users.
