@@ -82,3 +82,51 @@ In standard web design, a hamburger menu as the main way of navigation for deskt
 Quoted from the NN group, "Users should not have to wonder whether different words, situations, or actions mean the same thing.” “Register” and “SIGN UP” would typically mean the same thing, but for usability, there should be no room for doubt.
 
 > **Solution #3:** Stick with “Sign Up,” which is more commonly used adjacent to “Log In.”
+
+### 05.  Error Prevention
+
+**Problem: It is easy to get lost** (Rating: 2)
+
+![image](https://user-images.githubusercontent.com/69706820/161950108-5bf41bbf-d392-4fec-96ce-775ca1078c9c.png)
+
+Under the hero section, are two large categories: music and language+arts. In between, it shows subcategories of the music section by default. If you click on the language+arts category, the middle section changes. However, it is hard to realize that, with the layout, so most users probably will miss the fact that they can click on the other section.
+
+> **Solution:** Put subcategories underneath the large categories.
+> 
+### 06.  Recognition Rather than Recall
+
+**Problem: Important links under nested menu** (Rating: 3)
+
+![image](https://user-images.githubusercontent.com/69706820/161950178-f956428b-4bda-47d8-9bf5-04378bd2f7f4.png)
+
+New users will have to search harder to learn more about Lessonface, as information on the company and how it works is “the least important” in this information hierarchy.
+
+> **Solution:** Put all of this information in the navigation bar, laid out.
+
+### 07.  Flexibility and Efficiency of Use
+
+**Problem: Booking session with teacher requires three steps** (Rating: 1)
+
+When you click “book” with a teacher, you are led to another page where you have to press that button again, which wastes time.
+
+> **Solution:** Have a shortcut button lead towards the destination faster.
+
+### 08. Aesthetic and Minimalist design
+
+**Problem: Cluttered hero section** (Rating: 2)
+
+![image](https://user-images.githubusercontent.com/69706820/161950278-9d344d35-a78e-442c-bff0-48f4457500a2.png)
+
+Immediately, when you enter the website, you are seeing too much. The videos on top of a blue background is rather jarring to meet with, and the lighter colored videos, at times, can interfere with the readability of the hero text.
+
+> **Solution**: Remove videos, or have one video displayed at a time at the side.
+
+### 0****9.  Help Users Recognize, Diagnose, and Recover from Errors****
+
+**Problem: No error message when typing invalid input** (Rating: 2)
+
+![image](https://user-images.githubusercontent.com/69706820/161950349-6fa32489-706d-4279-901b-dc32e0ec2a9f.png)
+
+This search bar only shows results when your input matches what they have in the database, but if you type something that doesn’t match anything, nothing tells you that.
+
+> **Solution:** Add a message saying “Does not match any results.”
