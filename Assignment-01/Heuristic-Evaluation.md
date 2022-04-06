@@ -70,7 +70,7 @@ The phone number to contact the establishment is on the top right “navigation 
 ![image](https://user-images.githubusercontent.com/69706820/161936016-2f3b50eb-dc2e-4a1f-b9ed-f26e6175fd98.png)
 ![image](https://user-images.githubusercontent.com/69706820/161936098-70514308-1ea4-48b0-b7bf-350e2c42efc1.png)
 
-In standard web design, a hamburger menu as the main way of navigation for desktop design is rare. If Lessonface is advertising for students of all ages, an older user would likely not know to click on the icon to find more pages. Additionally, the hamburger menu hides two levels of links. You would have to click on “more” to find more important pages.
+In standard web design, a hamburger menu as the main way of navigation for desktop design is rare. If Lessonface is advertising for students of all ages, an older user would likely not know to click on the icon to find more pages. Additionally, the hamburger menu hides two levels of links. You would have to click on “more” to find some more important pages.
 
 > **Solution #2**: Use the navigation bar for desktop to lay out all of the options, and hamburger only for mobile on responsive web design.
 
@@ -212,7 +212,7 @@ Because the user would see hyperlinks styled like this, they may subconsciously 
 
 There are many steps and layers to scheduling a lesson. First, you have to find a service/location you prefer. Then, you have to scroll down to find the “Schedule a Lesson” tab. After scrolling through this website a few times, I forgot how to schedule a lesson. This would be concerning if the user was older with the tendency to forget.
 
-> **Solution:** Make the user more simple. Remove extra steps.
+> **Solution:** Make the user experience more simple. Remove extra steps.
 
 ### 07.  Flexibility and Efficiency of Use
 
