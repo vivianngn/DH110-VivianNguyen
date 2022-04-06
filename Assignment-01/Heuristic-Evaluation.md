@@ -22,8 +22,8 @@ Lessonface, founded in 2013, is a Public Benefit Company whose purpose is to con
 ### Why Lessonface?
 I chose Lessonface as a competitor application because this website displayed many features I envision to include. These include the feature to personally match with a suitable teacher, reviews, and individual pages for teachers with information. However, I would like to focus only on instrument learning, and emphasize more on the idea that everyone is welcome to learn instruments. I would like to use Lessonface as inspiration and to help me decide what to build upon.
 
-### Initial Evaluation
-At first visit, the visitor is well aware that the branding for Lessonface is really refined, and the website does not look like a website builder template like many other websites of this nature. However, aspects that strike me immediately are the circles of videos on top of a royal blue background on the hero section of the landing page. It is extremely cluttering to be the first thing you see when you visit, and hinders your intake of information (text), especially when the videos are rather bright and the white text lies on top of them. Right below, the categorization of “Music” and “Language and Arts” lessons are also very cluttered, with both types of lessons being on the same row.
+### Overall Evaluation
+At first visit, the visitor is well aware that the branding for Lessonface is really refined, and the website does not look like a website builder template like many other websites of this nature. However, aspects that strike me immediately are the circles of videos on top of a royal blue background on the hero section of the landing page. It is extremely cluttering to be the first thing you see when you visit, and hinders your intake of information (text), especially when the videos are rather bright and the white text lies on top of them. Right below, the categorization of “Music” and “Language and Arts” lessons are also very cluttered, with both types of lessons being on the same row. I think this website can be improved in design, content structuring, and filtering.
 
 ### 01.  Visibility of System Status
 
