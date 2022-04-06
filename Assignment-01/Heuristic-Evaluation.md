@@ -194,6 +194,32 @@ The website uses the standard button class for buttons, but also uses hyperlinki
 
 > **Solution:** Stick with one button design, use less hyperlinks.
 
+### 05.  Error Prevention
+
+**Problem: Not having hyperlinks in expected areas** (Rating: 2)
+
+![image](https://user-images.githubusercontent.com/69706820/161965950-efc6cd56-a407-49b1-a107-12d9f0ba50ed.png)
+
+Because the user would see hyperlinks styled like this, they may subconsciously try clicking on the non-hyperlinked text thinking that they are uniform hyperlinks. This inconsistent design is prone to error and confusion by the user.
+
+> **Solution:** Remove unnecessary hyperlinks around the website.
+
+### 06.  Recognition Rather than Recall
+
+**Problem: Easily lost when trying to schedule a lesson**
+
+![image](https://user-images.githubusercontent.com/69706820/161965979-e377c0d6-2aa9-42ff-ad6f-b2648b4c2a6b.png)
+
+There are many steps and layers to scheduling a lesson. First, you have to find a service/location you prefer. Then, you have to scroll down to find the “Schedule a Lesson” tab. After scrolling through this website a few times, I forgot how to schedule a lesson. This would be concerning if the user was older with the tendency to forget.
+
+> **Solution:** Make the user more simple. Remove extra steps.
+
+### 07.  Flexibility and Efficiency of Use
+
+The main purpose of this website is to find a class. I find it great that they add the button to begin the process of finding a class with a unique border in the navigation bar (that stays constant on the top of the page). It is a shortcut, compared to going through the navigation tabs.
+
+![image](https://user-images.githubusercontent.com/69706820/161966004-47bba47d-b919-4702-8d79-40b0b4469896.png)
+
 ### 08. Aesthetic and Minimalist design
 
 **Problem: Issues with design and information hierarchy** (Rating: 3)
