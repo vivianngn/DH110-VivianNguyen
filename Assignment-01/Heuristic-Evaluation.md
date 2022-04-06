@@ -63,7 +63,7 @@ The category filter is designed like a multi-select, with the design of the “X
 
 The phone number to contact the establishment is on the top right “navigation bar” (or what is intended to be a navigation bar, but does not include the actual navigation links—will be elaborated upon). However, it appears to the user as a button as that is the **web standard**, but when pressed, it does not lead to any page. Users may wait for a couple seconds expecting a page to load, but in actuality, it is just information placed in a button design.
 
-> **Solution #1:** Replace phone number and make it a “Contact” button that leads to a page with contact information that includes the phone number, or move the phone number to the footer.
+> **Solution #1:** Replace phone number and make it a “Contact” button that leads to a page with contact information that includes the phone number, or move the phone number to the footer, or link it to a "tel" so that the user can call the number.
 
 **Problem #2: Hamburger menu used on desktop/wide screen** (Rating: 3)
 
