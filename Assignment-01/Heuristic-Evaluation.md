@@ -211,3 +211,22 @@ On the contact page, they put the contact information on the Title/H1 header sec
 Right underneath the hero section of the landing page, we see a quote from Jack Black. Users would typically expect to see information about the service before quotes and testimonials on the landing page. Underneath the quote, we see information on “IN PERSON,” “ONLINE,” and “ON DEMAND” lessons in bullet points and hyperlinks, which is not very clear presentation design and hierarchy-wise.
 
 > **Solution**: Come up with a design that separates these sections into columns, reorder most important information first.
+
+### 0****9.  Help Users Recognize, Diagnose, and Recover from Errors****
+
+**Problem: Instructor filter bug leads to confusion** (Ranking: 3)
+
+![image](https://user-images.githubusercontent.com/69706820/161963598-124da5e7-1341-4c9b-9eb2-88bc44a6b674.png)
+
+This is the message you get when you search a **specific instrument** and **teacher** together. Instead of telling you that this teacher **does not** teach this instrument, it tells you that there are no lessons for this combination (which isn’t wrong, but doesn’t tell you that it is an error).
+
+> **Solution:** Have the teachers filtered out to only eligible teachers after you choose the instrument.
+> 
+
+### ****10.  Help and Documentation****
+
+**Problem: No help button or documentation** (Rating: 2)
+
+Users are left to navigate this website without help, especially for a website with a lot of dense content, it would be very overwhelming for the user.
+
+> **Solution:** Add a “help” button on the bottom corner of the website. Maybe have live chat.
