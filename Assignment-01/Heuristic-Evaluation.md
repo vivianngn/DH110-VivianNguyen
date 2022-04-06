@@ -206,7 +206,7 @@ Because the user would see hyperlinks styled like this, they may subconsciously 
 
 ### 06.  Recognition Rather than Recall
 
-**Problem: Easily lost when trying to schedule a lesson**
+**Problem: Easily lost when trying to schedule a lesson** (Rating: 2)
 
 ![image](https://user-images.githubusercontent.com/69706820/161965979-e377c0d6-2aa9-42ff-ad6f-b2648b4c2a6b.png)
 
