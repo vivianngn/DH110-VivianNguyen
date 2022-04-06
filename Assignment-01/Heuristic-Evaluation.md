@@ -214,7 +214,7 @@ Right underneath the hero section of the landing page, we see a quote from Jack 
 
 ### 0****9.  Help Users Recognize, Diagnose, and Recover from Errors****
 
-**Problem: Instructor filter bug leads to confusion** (Ranking: 3)
+**Problem: Instructor filter bug leads to confusion** (Rating: 3)
 
 ![image](https://user-images.githubusercontent.com/69706820/161963598-124da5e7-1341-4c9b-9eb2-88bc44a6b674.png)
 
