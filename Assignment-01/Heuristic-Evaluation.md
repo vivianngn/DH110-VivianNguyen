@@ -27,13 +27,23 @@ At first visit, the visitor is well aware that the branding for Lessonface is re
 
 ### 01.  Visibility of System Status
 
-**Problem #1: Blank screen** (Rating: 1)
+**Problem: Blank white screen** (Rating: 1)
 
 When loading the website, even though the favicon (small icon on top of the browser tab) is fully loaded, the page shows a white screen before the entire page appears before me. A loaded favicon signifies a page that has loaded all of its assets, and to regular internet users, they would expect to see a loaded page. Even after the buffering animation is gone, the page is still blank for a bit, which causes confusion to users.
 
 ![image](https://user-images.githubusercontent.com/69706820/161941462-e8ad1ca0-c3e4-44d3-aba1-07a73ec6ef1e.png)
 
 > **Solution:** Have a loading/buffering animation load in on the page, instead of a blank screen.
+
+### 02.  Match Between System and the Real World
+
+**Problem: Use of magnet imagery** (Rating: 1)
+
+![image](https://user-images.githubusercontent.com/69706820/161943659-53af97ca-06e3-433b-b0a0-241481f17f6e.png)
+
+Although it might seem obvious that the magnet is supposed to refer to “matching” the student with the teacher, I was confused by the magnet imagery as it is a single magnet without the other magnet. It is a very specific use of a magnet icon that people might not be used to seeing to refer to pairing people together.
+
+> **Solution:** Remove or replace with a more recognizable icon.
 
 ### 04.  Consistency and Standards
 
