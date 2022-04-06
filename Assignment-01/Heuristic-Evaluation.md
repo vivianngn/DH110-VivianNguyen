@@ -45,6 +45,16 @@ Although it might seem obvious that the magnet is supposed to refer to “matchi
 
 > **Solution:** Remove or replace with a more recognizable icon.
 
+### 03.  User Control and Freedom
+
+**Problem: Cannot remove category when searching music lessons** (Rating: 2)
+
+![image](https://user-images.githubusercontent.com/69706820/161946075-abd5336a-304a-4e64-9219-f05be34074d2.png)
+
+The category filter is designed like a multi-select, with the design of the “X” on the category chosen. However, it is a single-select and you cannot search multiple instruments at once, or remove the category to search all instruments at once.
+
+> **Solution**: Make it a multi-select filter to enhance user freedom.
+
 ### 04.  Consistency and Standards
 
 **Problem #1: Not actually a button** (Rating: 3)
