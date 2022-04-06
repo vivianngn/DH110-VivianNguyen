@@ -25,6 +25,16 @@ I chose Lessonface as a competitor application because this website displayed ma
 ### Initial Evaluation
 At first visit, the visitor is well aware that the branding for Lessonface is really refined, and the website does not look like a website builder template like many other websites of this nature. However, aspects that strike me immediately are the circles of videos on top of a royal blue background on the hero section of the landing page. It is extremely cluttering to be the first thing you see when you visit, and hinders your intake of information (text), especially when the videos are rather bright and the white text lies on top of them. Right below, the categorization of “Music” and “Language and Arts” lessons are also very cluttered, with both types of lessons being on the same row.
 
+### 01.  Visibility of System Status
+
+**Problem #1: Blank screen** (Rating: 1)
+
+When loading the website, even though the favicon (small icon on top of the browser tab) is fully loaded, the page shows a white screen before the entire page appears before me. A loaded favicon signifies a page that has loaded all of its assets, and to regular internet users, they would expect to see a loaded page. Even after the buffering animation is gone, the page is still blank for a bit, which causes confusion to users.
+
+![image](https://user-images.githubusercontent.com/69706820/161941462-e8ad1ca0-c3e4-44d3-aba1-07a73ec6ef1e.png)
+
+> **Solution:** Have a loading/buffering animation load in on the page, instead of a blank screen.
+
 ### 04.  Consistency and Standards
 
 **Problem #1: Not actually a button** (Rating: 3)
