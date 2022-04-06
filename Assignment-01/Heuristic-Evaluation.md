@@ -14,9 +14,9 @@ Now that I am an adult, with desires to continue the piano education I once had,
 | 2 | Minor usability problem: fixing this should be given low priority |
 | 3 | Major usability problem: important to fix, so should be given high priority |
 
-Severity ratings from the <a href="https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/">Nielsen Norman Group.</a>
+Severity ratings from the [Nielsen Norman Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/).
 
-## Website 1: <a href="https://www.lessonface.com/">Lessonface</a>
+## Website 1: [Lessonface](https://www.lessonface.com/)
 Lessonface, founded in 2013, is a Public Benefit Company whose purpose is to connect students with great teachers for live online music, language, and arts lessons. Their mission is to help students achieve their self-enrichment goals while treating teachers equitably. Lessonface is COPPA (Children's Online Privacy Protection Act) compliant and designed for all ages.
 
 ### Why Lessonface?
@@ -138,3 +138,15 @@ This search bar only shows results when your input matches what they have in the
 There are no guides on the process on finding a teacher and booking the lessons.
 
 > **Solution:** Add an onboarding for new users.
+
+## Website 2: [Blue Bear School of Music](https://bluebearmusic.org/)
+
+Blue Bear is a nonprofit organization that strives to bring the power of music to underserved communities all across the San Francisco Bay Area. Through donor support, they offer free and low-cost programs in many wonderful local schools, community centers, churches and family shelters.
+
+### Why?
+
+I chose Blue Bear School of Music because it is a nonprofit, so the organization naturally has the same goal as me for my project idea. There is a lot of room for improvement for this website, design-wise.
+
+### Overall Evaluation
+
+At first glance, the website has a hero section with a slideshow of images and videos from the organization, but upon further inspection, there are many design choices that can be improved. On the surface, there are many issues of color contrast, textual hierarchy, website organization, and button styles.
