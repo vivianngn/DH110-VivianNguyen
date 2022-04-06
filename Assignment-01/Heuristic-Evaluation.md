@@ -141,12 +141,73 @@ There are no guides on the process on finding a teacher and booking the lessons.
 
 ## Website 2: [Blue Bear School of Music](https://bluebearmusic.org/)
 
-Blue Bear is a nonprofit organization that strives to bring the power of music to underserved communities all across the San Francisco Bay Area. Through donor support, they offer free and low-cost programs in many wonderful local schools, community centers, churches and family shelters.
+Blue Bear is a nonprofit organization from San Francisco Bay Area that strives to bring the power of music to underserved communities all across the San Francisco Bay Area. Through donor support, they offer free and low-cost programs in many wonderful local schools, community centers, churches and family shelters.
 
 ### Why?
 
-I chose Blue Bear School of Music because it is a nonprofit, so the organization naturally has the same goal as me for my project idea. There is a lot of room for improvement for this website, design-wise.
+I chose Blue Bear School of Music because it is a nonprofit, so the organization naturally has the same goal as me for my project idea. Although I don't foresee my project working with an actual nonprofit, I still think there are parallels between this organization and my proposed project. There is a lot of room for improvement for Blue Bear's website, design-wise, and I would like to comment on it.
 
 ### Overall Evaluation
 
-At first glance, the website has a hero section with a slideshow of images and videos from the organization, but upon further inspection, there are many design choices that can be improved. On the surface, there are many issues of color contrast, textual hierarchy, website organization, and button styles.
+At first glance, the website has a hero section with a slideshow of images and videos from the organization, but upon further inspection, there are many design choices that can be improved. On the surface, there are many issues of color contrast, textual hierarchy, website organization, and button styles, to start. I will elaborate more on my findings below.
+
+### 01.  Visibility of System Status
+
+**Problem: Unclickable images as site content** (Rating: 3)
+
+![image](https://user-images.githubusercontent.com/69706820/161961292-1732c409-0bc1-439f-a15a-9ed2267a6503.png)
+
+In the 50th anniversary page, the content consists of images with textual content. Users would try to click on the images to enlarge them to read the text, and wait for them to load, but then realize that they are unable to.
+
+> **Solution:** Have the content actually embedded in the page (for accessibility and screen reader reasons as well).
+
+### 02.  Match Between System and the Real World
+
+**Problem: Cart button with no backend connection** (Rating: 3)
+
+![image](https://user-images.githubusercontent.com/69706820/161961366-67c044a2-b0d6-40fe-b5ac-bb1ad77849c7.png)
+
+A user would normally see this cart icon in a shopping website. This button is not apparent in all pages, but it is apparent in some. This will heavily confuse the user into thinking that you can shop on this website.
+
+> **Solution:** Remove cart icon from all pages that include it.
+
+### 03.  User Control and Freedom
+
+**Problem: Not enough specific filtering** (Rating: 2)
+
+![image](https://user-images.githubusercontent.com/69706820/161961414-7fb1c9f2-0fdc-4820-8fea-1ceb27ff472b.png)
+
+When scheduling a lesson, you can only filter by instrument and instructors. Howevers, the instructor filter includes all instructors, despite the instrument you choose. You cannot filter by dates and times, and other important things to note.
+
+> **Solution**: Add more filter options and fix instructor filter bug.
+
+### 04.  Consistency and Standards
+
+**Problem: Inconsistent button types** (Rating: 3)
+
+![image](https://user-images.githubusercontent.com/69706820/161961545-d6d9174f-e4e9-4ba1-a03c-35ad8bdc9b18.png)
+![image](https://user-images.githubusercontent.com/69706820/161961559-ea3cb37a-368f-42bf-8f3d-2811aa7810b8.png)
+![image](https://user-images.githubusercontent.com/69706820/161961569-e471d055-8bc8-49af-9a00-67605996c3ba.png)
+![image](https://user-images.githubusercontent.com/69706820/161961583-ba4fae3d-5cc3-42f8-b8b4-93db7eb97879.png)
+
+The website uses the standard button class for buttons, but also uses hyperlinking as buttons when some content can be organized into buttons. It is inconsistent and leads to messy and confusing design to navigate.
+
+> **Solution:** Stick with one button design, use less hyperlinks.
+
+### 08. Aesthetic and Minimalist design
+
+**Problem: Issues with design and information hierarchy** (Rating: 3)
+
+![image](https://user-images.githubusercontent.com/69706820/161961720-cdb1e1da-6f51-4460-af93-6c9a81fe7320.png)
+
+No call-to-action button or subheadings on Hero section. A CTA button at the top of the page would have users more interested from the start of their user journey.
+
+![image](https://user-images.githubusercontent.com/69706820/161961759-7e85afb1-e997-4692-bbdf-abd0230285cb.png)
+
+On the contact page, they put the contact information on the Title/H1 header section, which is highly advised against. It should be in the body, as most people would expect information to be.
+
+![image](https://user-images.githubusercontent.com/69706820/161961802-9b7ee6cf-74db-4967-89bd-db2ee454a5d0.png)
+
+Right underneath the hero section of the landing page, we see a quote from Jack Black. Users would typically expect to see information about the service before quotes and testimonials on the landing page. Underneath the quote, we see information on “IN PERSON,” “ONLINE,” and “ON DEMAND” lessons in bullet points and hyperlinks, which is not very clear presentation design and hierarchy-wise.
+
+> **Solution**: Come up with a design that separates these sections into columns, reorder most important information first.
