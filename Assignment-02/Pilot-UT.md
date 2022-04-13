@@ -17,7 +17,7 @@ The purpose of a Usability Test (UT) is to evaluate the usablity of the product.
 Upon conducting heuristic evaluation of Lessonface last week, I found that the three **main issues** were:
 
 | Heuristic | User Control and Freedom | Consistency and Standards | Recognition Rather than Recall |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | Usability Problem | Cannot remove instrument category when searching for music lessons, confusion | An element that appears to be a button but is not a button | Important links under nested menu |
 
 I decided to focus on these heuristics for my UT session.
@@ -27,7 +27,7 @@ I decided to focus on these heuristics for my UT session.
 Considering these, I used UT and created **three tasks** to test the usability problems noted above according to the table below:
 
 | Heuristic Being Tested | Usability problem | Task scenario |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | User control and freedom | Cannot remove instrument category when searching for music lessons, confusion | Finding a clarinet teacher, then changing to flute teacher |
 | Consistency and standards | An element that appears to be a button but is not a button | Find the FAQs page and phone number from the top navigation |
 | Recognition rather than recall | Important links under nested menu | Find the "About" page under the nested menu |
@@ -35,7 +35,7 @@ Considering these, I used UT and created **three tasks** to test the usability p
 Next, I decided on and wrote down the most logical and natural steps to completing these tasks.
 
 | Task Scenario | 1: Finding a teacher | 2: Looking for answers to questions | 3: Learning more about Lessonface |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | Step 1 | Search for clarinet teachers | Find the FAQs page | Find the "About" page |
 | Step 2 | Refine your search to Monday, Friday, and Saturday | Find the section regarding the cancellation and rescheduling policy | Read about the history of Lessonface |
 | Step 3 | Refine your search to the Mandarin language | Find the phone number | Find information about the CEO of Lessonface |
