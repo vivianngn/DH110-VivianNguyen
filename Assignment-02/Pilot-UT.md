@@ -96,3 +96,9 @@ New users will have to search harder to learn more about Lessonface, as informat
 > 
 
 My participant had no issue finding this page, as he already found it when looking for the FAQs page. It did not seem to be an issue for his experience, but would likely be in issue if I were to test more people.
+
+## Reflection
+
+Overall, I think my UT session went well, especially in the following aspects. My participant was very vocal when being tested, so it was easy to follow his user flow when performing these tasks. I learned that through usability testing, I can easily find new problems, as every user is different and has different experiences. I also think it was successful despite my participant not knowing what to do for a couple minutes for my second task. I was patient with him and reassured him that there are no wrong answers.
+
+Not counting the demographics, the test lasted 22 minutes, which was faster than I anticipated. It also could be because I did not speak slowly enough, as I did have the requirement of three tasks, with 3-4 listed steps for them. Since I believe the testing session went by quickly, I think it would have been better if I added more tasks that tackled the significant usability problems I noticed. I think I could work on my attitude as well. I think I did not have enough of a welcoming and positive tone in my voice. I did not give as much positive feedback as I wanted and am not sure if my participant felt comfortable on their end. In the future, I will try to build trust at the beginning of the session and have a conversation with the participant before beginning with the test. Considering that this is one of my first UT sessions I critiqued myself in, I think this was good foundation for improving myself and my UT materials in the future.
