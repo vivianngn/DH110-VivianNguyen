@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Lessonface, founded in 2013, is a Public Benefit Company whose purpose is to connect students with great teachers for live online music, language, and arts lessons. Their mission is to help students achieve their self-enrichment goals while treating teachers equitably. Lessonface is COPPA (Children's Online Privacy Protection Act) compliant and designed for all ages.****
+Lessonface, founded in 2013, is a Public Benefit Company whose purpose is to connect students with great teachers for live online music, language, and arts lessons. Their mission is to help students achieve their self-enrichment goals while treating teachers equitably. Lessonface is COPPA (Children's Online Privacy Protection Act) compliant and designed for all ages.
 
 I chose Lessonface as a competitor application because this website displayed many features I envision to include. These include the feature to personally match with a suitable teacher, reviews, and individual pages for teachers with information. However, I would like to focus only on instrument learning, and emphasize more on the idea that everyone is welcome to learn instruments. I would like to use Lessonface as inspiration and to help me decide what to build upon for my final project.
 
