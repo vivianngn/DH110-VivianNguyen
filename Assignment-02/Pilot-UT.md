@@ -55,7 +55,7 @@ Next, I decided on and wrote down the most logical and natural steps to completi
 
 I used **Zoom** to record the session between me an my participant on my PC, while my participant was sharing his screen through **Zoom** on his laptop. We were both in quiet places, with myself alone in my room and himself alone in his room. I paused the recording before the demographics and continued after, to thank him for his participation.
 
-## UT Survey Link
+## UT Materials
 
 [UT Survey on Google Forms](https://forms.gle/nFcErK25q1KArFbp9)
 
