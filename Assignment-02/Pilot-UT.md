@@ -1,5 +1,3 @@
-# Assignment 02
-
 # Assignment #2: Pilot Usability Testing of [Lessonface.com](http://lessonface.com/)
 
 **Vivian Nguyen** | *Digital Humanities 110 - User Interface and Design* | Spring 2022
