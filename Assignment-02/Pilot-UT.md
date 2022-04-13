@@ -62,3 +62,37 @@ I used **Zoom** to record the session between me an my participant on my PC, whi
 ## Pilot UT Session Video
 
 [Pilot UT Session Video on YouTube](https://youtu.be/jVuXDMX19BA)
+
+## Findings
+
+Through the UT session, I was able to find out new usability problems and also confirmed that the usability problems I evaluated last week were problematic.
+
+### First Task
+
+I mainly focused on the issue I pointed out in last week’s heuristic evaluation:
+
+> **Problem: Cannot remove category when searching music lessons** (Rating: 2)
+The category filter is designed like a multi-select, with the design of the “X” on the category chosen. However, it is a single-select and you cannot search multiple instruments at once, or remove the category to search all instruments at once.
+> 
+
+My participant, when trying to change the selection from “clarinet” to “flute,” tried clicking on the “X” to remove the clarinet selection, but found his knowledge of the design did not match its function. He pointed out that it was confusing.
+
+### Second Task
+
+I focused on the phone number’s button-like appearance but found a new problem.
+
+> **Problem: Not actually a button** (Rating: 3)
+The phone number to contact the establishment is on the top right “navigation bar” (or what is intended to be a navigation bar, but does not include the actual navigation links—will be elaborated upon). However, it appears to the user as a button as that is the **web standard**, but when pressed, it does not lead to any page. Users may wait for a couple seconds expecting a page to load, but in actuality, it is just information placed in a button design.
+> 
+
+Because my participant’s screen was in split screen, the website width was smaller. Because of this, the navigation bar completely disappeared, and he had to complete the tasks through longer steps. The FAQs page and phone number were not visible as opposed to when you are viewing the website in a larger width. I learned of a new usability issue regarding the inaccessible responsive web design.
+
+### Third Task
+
+I focused on finding the About page, that was nested under a second-level in the hamburger menu.
+
+> **Problem: Important links under nested menu** (Rating: 3)
+New users will have to search harder to learn more about Lessonface, as information on the company and how it works is “the least important” in this information hierarchy.
+> 
+
+My participant had no issue finding this page, as he already found it when looking for the FAQs page. It did not seem to be an issue for his experience, but would likely be in issue if I were to test more people.
