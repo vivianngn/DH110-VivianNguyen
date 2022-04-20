@@ -350,8 +350,6 @@ Yes and why does it seem good compared to other options?
 
 I see.
 
----
-
 Okay, so now I’m going to move on to more general questions. Do you ever record your music learning? If so, how do you document it?
 
 > In the past, I have recorded myself playing. When I do record, I typically want to watch how I play, if I’m making any mistakes, or if this sounds weird, because when you’re playing you often miss things that sound a little weird. If anything, I may not document it on a piece of paper. Actually, I will document on the actual sheet music, like hey, just like a reminder when I come across this again. Like this is a G#, or you played the wrong note, so you mark it on top. And that is typically how it goes.
