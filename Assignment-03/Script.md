@@ -109,7 +109,7 @@ We are now asking you to demonstrate some activities on how you would 1) learn o
 2. Is there any method for music learning that you find yourself repeatedly doing?
 3. Are there any kinds of music learning where you do not use the internet? If so, how do you learn your instrument/song?
 
-## Wrap-up (5 min):
+## Wrap-up (5 min)
 
 **Desires:** If you could create a magical tool that would allow you to learn music as you want, what would such a tool be? How would it work? What areas would it cover?
 
