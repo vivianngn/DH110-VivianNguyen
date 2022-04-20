@@ -1,5 +1,3 @@
-# Assignment 03
-
 # Assignment #3: Contextual Inquiry
 
 **Vivian Nguyen** | *Digital Humanities 110 - User Interface and Design* | Spring 2022****
