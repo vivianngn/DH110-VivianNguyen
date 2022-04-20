@@ -69,7 +69,7 @@ The first activity was conducted on the subject’s phone. The second and third 
 ## Step 5. Conducting the Research 🔬
 
 - [Link to interview and observation transcription](https://github.com/vivianngn/DH110-VivianNguyen/blob/main/Assignment-03/Transcript.md) on GitHub
-- Link to interview and observation audio recording
+- [Link to interview and observation audio recording](https://drive.google.com/file/d/1JlFzL8zbwG-jFaM5TyPm27GvRfezC7zo/view?usp=sharing)
 - [Link to observation notes](https://github.com/vivianngn/DH110-VivianNguyen/blob/main/Assignment-03/Notes.md) on GitHub
 
 ### Insights 💡
@@ -98,4 +98,4 @@ The first activity was conducted on the subject’s phone. The second and third 
 
 ## Step 6. Reflection and Documentation ✍🏻
 
-Comment
+The interview went well and lasted about an hour. My subject was definitely a part of my target audience and offered a lot of insight regarding music learning and the features that would enhance his experience with music learning. I especially learned a lot of insight about Musescore and some features he would change on the website. However, the biggest problem was having the interview and observation go smoothly, as we Zoom called instead of having me visit his place in person. His laptop died in the middle of the participatory observation, which was a technical difficulty I did not foresee happening, which would have interrupted the flow of things. Additionally, my roommate was being inconsiderate and was speaking loudly on the phone in the background, and I did not have the heart to say that I was recording an important meeting. Next time, I will make sure that the environment is quiet and without distractions. I would also try to have it in person, as the natural flow of a conversation and events would be better, and I would be able to see the subject's actions in real-time, in front of me.
