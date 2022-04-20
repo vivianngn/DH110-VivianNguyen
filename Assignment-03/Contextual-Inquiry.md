@@ -75,26 +75,26 @@ The first activity was conducted on the subject’s phone. The second and third 
 
 ### Insights 💡
 
-1. Insight #1
+1. **Having a forum (like Reddit) where people can share knowledge is helpful**
     
-    > Quote from interview
+    > Sometimes, I think I would read on Reddit, I don’t know the specific group but they typically tell you how, when I had trouble finding my fingering on my own for a music, it would be like, I turn to Reddit, or like, the most like, optimal way to play a specific song, simply because I’d say, like, the chord progression is too big for your hand, and they’d tell you a more efficient or optimal way, if you have smaller hands, to play specific music.
     > 
     
-    Comment
+    My subject mentioned forums and the use of Reddit a lot, which makes me think that the **sharing of knowledge** is really important when learning anything, and specifically musical instrument learning. I would like my final project to have a forum feature where communication is prevalent.
     
-2. Insight #2
+2. **Would be helpful to have a feature to digitally write on sheet music, and an automatic scroll**
     
-    > Quote from interview
+    > (You brought up a good point about writing on your sheet music. When you’re learning your song earlier on Musescore, you were not able to particularly write on that sheet music, right? Do you think that would be a helpful thing?) I think that would be an extremely helpful thing to have when you’re learning your songs. Yes. Just so like, you will probably forget when you’re playing through the song again. And it’ll take longer for you to really integrate that into your memory.
     > 
     
-    Comment
+    He mentioned that Musescore is frustrating to use when viewing music on your phone because you would have to scroll for yourself and it messes with the rhythm and learning process. These are features he would like to see when using a sheet music viewing app digitally on a smaller device.
     
-3. Insight #3
+3. **Not all people have connections to teachers and easy access to materials**
     
-    > Quote from interview
+    > I came across my piano teacher through connections, and I think that often times people don’t have that same connection with people, so I think what I had was pretty rare. As it is not someone who posts themselves online. It’s just like, you know this person and you keep referring people to that said person... Yes. I think that my piano teacher provided me with a lot of things that I did not have to think about myself, and I think that was pretty nice.
     > 
     
-    Comment
+    He mentioned that most of his piano education was provided by his piano teacher that was found through connections. I want to focus on providing an equal amount of support for the users of my project that could be found from a personal teacher.
     
 
 ## Step 6. Reflection and Documentation ✍🏻
