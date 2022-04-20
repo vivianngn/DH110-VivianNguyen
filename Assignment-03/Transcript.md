@@ -1,4 +1,4 @@
-# Assignment 03: Transcription
+Transcription
 
 [Link to closed captions with time stamps](https://github.com/vivianngn/DH110-VivianNguyen/blob/main/Assignment-03/assignment-3_closedcaptions.vtt)
 
