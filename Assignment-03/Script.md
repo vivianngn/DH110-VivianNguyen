@@ -71,7 +71,7 @@ Now I’d like to give you some time to think about a situation or a time where 
 
 We are now asking you to demonstrate some activities on how you would 1) learn or brush up on your skills in an instrument, and 2) learn a new song on a particular instrument of choice. Let's do them! When you're doing these tasks, use whatever websites/tools you'd normally use, and please think aloud.
 
-### 01. Learning an instrument
+**01. Learning an instrument**
 
 1. **Task:** Can you show me how you would go about finding resources on learning or brushing up on your skills in a musical instrument?
 2. **Strategy:** How did you decide what method to use?
@@ -79,7 +79,7 @@ We are now asking you to demonstrate some activities on how you would 1) learn o
 4. **Satisfaction:** Are you satisfied with the method you used for this activity? How do you decide if you have mastered what you want to learn?
 5. **Results assessment:** Why did you choose this particular method? Can you explain why it seems particularly good?
 
-### 02. Learning a song
+**02. Learning a song**
 
 1. **Task:** How would you go about learning a new song, from finding the sheet music to learning it to its fullest?
 2. **Strategy:** How did you decide what method to use?
