@@ -59,7 +59,8 @@ For the interview and observation session, I followed a script that had the foll
 | --- | --- | --- |
 | A general activity with a desire to work on a skill | Learning/brushing up on an instrument | Learning a song on an instrument of choice |
 
-The first activity was conducted on the subject’s phone. The second and third activities were conducted in the subject’s own home, by a piano, with a phone in hand. I used Zoom to record the audio of the interview and the laptop camera to observe. However, for privacy reasons, the video of the session will be kept confidential. Because of schedule conflicts, I was unable to come to their home in-person, so we opted for a remote Zoom call.
+The first activity was conducted on the subject’s phone. The second and third activities were conducted in the subject’s own home, by a piano, with a phone in hand. I used Zoom to record the audio of the interview and the laptop camera to observe. However, for privacy reasons, the video of the session will be kept confidential. Because of schedule conflicts, I was unable to come to their home in-person, so we opted for a remote Zoom call. Below is a picture of the home environment.
+![home setup](https://cdn.discordapp.com/attachments/891173875767992350/966402687526662295/IMG_6107.jpg)
 
 ## Step 4. Observation/Interview Guide 📒
 
