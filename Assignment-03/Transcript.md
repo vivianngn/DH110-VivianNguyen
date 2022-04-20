@@ -2,7 +2,7 @@
 
 [Link to closed captions with time stamps](https://github.com/vivianngn/DH110-VivianNguyen/blob/main/Assignment-03/assignment-3_closedcaptions.vtt)
 
-## I**ntroduction**
+## Introduction
 
 Okay, hello! How are you today?
 
@@ -338,9 +338,9 @@ I see I see. Are you satisfied with the method you used for this activity and in
 > I would say that I am satisfied simply because it has mostly everything that I need. I don’t think that... actually I think that like the scrolling of the screen does bug me a little. There’s nothing that I can do about it right now. As for mastering the music, once I’ve stopped stuttering and pausing during the music. Once I’ve reached a comfort kind of like, when you master music you kind of memorize the notes, what comes next and it’s like then I would feel like I’ve mastered it.
 > 
 
-I see. Thank you. Lastly, why did you decide to use Muse Dash and why does it seem good?
+I see. Thank you. Lastly, why did you decide to use [Musescore] and why does it seem good?
 
-> Why did I choose Muse Dash?
+> Why did I choose [Musescore]?
 > 
 
 Yes and why does it seem good compared to other options?
