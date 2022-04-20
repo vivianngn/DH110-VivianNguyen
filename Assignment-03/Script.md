@@ -10,7 +10,6 @@ Time/Date:
 
 Location:
 
-## Objectives
 
 ## Introduction (5 mins)
 
