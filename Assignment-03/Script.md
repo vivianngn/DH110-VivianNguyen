@@ -40,7 +40,7 @@ How does all that sound to you? Do you have any questions at this point? Let me 
 ## Contextual Inquiry
 
 1. **Frequency of activities:** How often, throughout your daily life, do you set aside time to learn a musical instrument or a new song?
-2. **Success of music learning:** **How well does learning a musical instrument/song work for you? Do you usually have success when looking up specific sheet music to play, or when you want to figure out what something means on the sheet music?
+2. **Success of music learning:** How well does learning a musical instrument/song work for you? Do you usually have success when looking up specific sheet music to play, or when you want to figure out what something means on the sheet music?
 3. **Goals of music learning activities:** What kind of methods do you usually use for the instrument/song learning process? What kind of information or tools do you need?
 
 ### Resources for music learning activities:
