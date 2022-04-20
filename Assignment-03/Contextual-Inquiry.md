@@ -69,6 +69,7 @@ The first activity was conducted on the subject’s phone. The second and third 
 ## Step 5. Conducting the Research 🔬
 
 - [Link to interview and observation transcription](https://github.com/vivianngn/DH110-VivianNguyen/blob/main/Assignment-03/Transcript.md) on GitHub
+- [Link to closed captions file](https://github.com/vivianngn/DH110-VivianNguyen/blob/main/Assignment-03/assignment-3_closedcaptions.vtt) on Github (less accurate transcription)
 - [Link to interview and observation audio recording](https://drive.google.com/file/d/1JlFzL8zbwG-jFaM5TyPm27GvRfezC7zo/view?usp=sharing)
 - [Link to observation notes](https://github.com/vivianngn/DH110-VivianNguyen/blob/main/Assignment-03/Notes.md) on GitHub
 
