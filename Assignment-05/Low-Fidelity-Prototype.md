@@ -19,6 +19,7 @@ My goal for this project is to design a website/platform where people of all bac
 **Pilot Usability Testing:**
 
 - I tested the significant usability issues found from heuristic evaluation of Lessonface, my main competitior website. These included:
+
 | Heuristic Being Tested | Usability problem | Task scenario |
 | :--- | :--- | :--- |
 | User control and freedom | Cannot remove instrument category when searching for music lessons, confusion | Finding a clarinet teacher, then changing to flute teacher |
