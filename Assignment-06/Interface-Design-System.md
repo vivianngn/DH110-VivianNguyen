@@ -5,7 +5,7 @@
 
 ---
 
-## Description of Project
+## Description of Project 📖
 
 My goal for this project is to design a website/platform where people of all backgrounds and ages have the ability to learn how to play an instrument at any level without any cost, can view pre-recorded lessons with instrument-learning basics, can schedule live lessons with a teacher they can match with, and have unlimited access to a high quality, large database of sheet music for any instrument. The screen I decided to design was the homepage that leads to all of the services. I decided to name the platform “Musical-u,” which is a play on words. It encourages a “musical you,” with the “u” also representing education by referencing “university.”
 
@@ -24,7 +24,7 @@ I used my paper prototype as a reference to create this design. First, I used Fi
 
 ![image](https://user-images.githubusercontent.com/69706820/167877930-150a7268-2a4d-4980-862f-54855a13fa1d.png)
 
-## Screen Interface Designs
+## Screen Interface Designs 🖌️
 
 ### Typographic Variations
 
@@ -70,7 +70,7 @@ When creating my design, I designed the **logo** and made it the first component
 
 ![image](https://user-images.githubusercontent.com/69706820/167878862-5c8db15d-ffb4-4243-a64e-33ce1a2de4e7.png)
 
-## Impression Testing
+## Impression Testing 📝
 
 [Link to screen+audio recording](https://drive.google.com/file/d/1_1LqrLKM6cs9mLpl_BCkFQV4AfuXkhge/view?usp=sharing)
 
@@ -111,13 +111,13 @@ I then sent him the prototype link and asked him to go through the screen and gi
 - Reviews on the page, so he could know credibility of the website
 - "Schedule a Lesson" can cause confusion, would use "Instructors" instead but thinks that still can be confusing
 
-## Accessibility + Contrast Check
+## Accessibility + Contrast Check 📐
 
 I checked the contrast between the main text components of the website which uses the color palette. The order of the light mode palette contrast check corresponds with the dark mode palette. They all pass the WCAG guidelines.
 
 ![image](https://user-images.githubusercontent.com/69706820/167878951-32bc08fd-5471-41c5-a002-fd3845eca19d.png)
 
-## Final Screen Design & Design System
+## Final Screen Design & Design System 🎨
 
 ### Screen Design
 
