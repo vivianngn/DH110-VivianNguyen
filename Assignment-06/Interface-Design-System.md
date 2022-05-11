@@ -72,9 +72,44 @@ When creating my design, I designed the **logo** and made it the first component
 
 ## Impression Testing
 
-I tested my product with the same person I talked to when doing contextual interviews.
+[Link to screen+audio recording](https://drive.google.com/file/d/1_1LqrLKM6cs9mLpl_BCkFQV4AfuXkhge/view?usp=sharing)
 
-Link to screen+audio recording
+I showed my product to the same person I did contextual interviews with. First, I did a 5 second test and showed the design for 5 seconds. After the 5 second test, I asked him for his first impressions and what he could remember about the website. The following are his first impressions:
+
+### 5-second-test findings
+
+- Simple music learning website, got to the point
+- Finding sheet music and instructors
+- Can find all contact information easily
+- Very organized, symmetrical layout
+- Mostly white and purple accents
+- Search function was one of the first things he saw
+- Has what he is looking for if he wants to learn/search for music
+
+I then sent him the prototype link and asked him to go through the screen and give me feedback on the design as he interacts with it. I asked him for feedback on the typography, color palette, and layout.
+
+### Color Palette
+- Nice and easy to read
+- Prefers light mode
+- Purple and grey blends together in dark mode (even though they pass color contrast guidelines)
+- Picture does not have enough contrast against the dark background
+- Dark mode still legible and can read everything
+- Background is a good darkness
+
+### Typography
+- Very minimalistic
+- Being able to see everything on the main screen at once is nice
+- Legible, nothing is too small, doesn't have to zoom in
+
+### Layout
+- Having links at the top is nice
+- Search function is helpful
+- Would have to scroll down, might miss instructor option
+- First thing they see is the search function and the navigation
+
+### What he would like to see on this page
+- Reviews on the page, so he could know credibility of the website
+- "Schedule a Lesson" can cause confusion, would use "Instructors" instead but thinks that still can be confusing
 
 ## Accessibility + Contrast Check
 
