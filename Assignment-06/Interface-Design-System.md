@@ -48,7 +48,7 @@ Throughout my design, I had **rounded corners** on my rectangles for **buttons, 
 
 ### Color Palettes
 
-I created a light and dark mode of my design, with some changes in the color palette depending on its usage on light/dark mode. For example, the **dark grey color is slightly darker** in dark mode to create more contrast. The **primary accent color in dark mode is the light purple**, as opposed to dark purple. The **grey color is lighter in dark mode**, again to create more color contrast.
+I created a light and dark mode of my design, with some changes in the color palette depending on its usage on light/dark mode. For example, the **dark grey color is slightly darker** in dark mode to create more contrast. The **primary accent color in dark mode is the light purple**, as opposed to purple. The **grey color is lighter in dark mode**, again to create more color contrast.
 
 ![image](https://user-images.githubusercontent.com/69706820/167878650-b14e0ea0-cc18-4f1a-be0c-f9c8a916089b.png)
 
@@ -146,7 +146,7 @@ Below is the final screen design, in **light mode**, using **Circular STD** and 
 **Color Palette:** I chose purple to be the main color as I wanted a cool-toned color palette. I thought that warm-toned colors would be difficult to design around (red=too alert, yellow=hard to design for contrast), and purple/blue is a welcoming color. I created a light and dark mode of my design, with some changes in the color palette depending on its usage on light/dark mode.
 
 - The **dark grey color is slightly darker** in dark mode to create more contrast.
-- The **primary accent color in dark mode is the light purple**, as opposed to dark purple.
+- The **primary accent color in dark mode is the light purple**, as opposed to purple.
 - The **grey color is lighter in dark mode**, again, to create more color contrast.
 
 **Layout:** I decided to go with a 12 column grid with a 300px margin because I have used that layout in the past, and it is standard. I let the Hero section bleed an extra 150px on both sides because Hero sections on websites tend to be wider than the actual content.
