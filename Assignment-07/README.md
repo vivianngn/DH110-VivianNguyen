@@ -110,4 +110,4 @@ From the feedback I received from the low-fidelity prototype testing, these were
 
 ## Usability Testing
 
-Coming soon!
+Usability testing details can be found [here](https://github.com/vivianngn/DH110-VivianNguyen/blob/main/Assignment-07/Usability-Testing.md).
