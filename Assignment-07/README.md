@@ -63,7 +63,7 @@ The wireflows can be viewed in the Figma file in the “Wireflows” page. I sep
 
 Data from the cognitive walkthrough can be found [here](https://docs.google.com/document/d/1H3q55_8U40vloayw0qPKjkEpx3HTx40eNHog0cf7Mmg/edit).
 
-Overall, the cognitive walkthrough went well. There weren’t many issues when my testers went through my prototype. I think one issue was that my testers could not find any issues, or at least did not many issues. Since that was the case, most of my iterations came from the feedback I received from the low-fidelity prototype testing, which will be in the next section. Next time I conduct a cognitive walkthrough, I think I would ask more questions specific to my design that would lead to more constructive criticism and feedback.
+Overall, the cognitive walkthrough went well. There weren’t many issues when my testers went through my prototype. I think one issue was that my testers could not find any issues, or at least did not mention any issues. Since that was the case, most of my iterations came from the feedback I received from the low-fidelity prototype testing, which will be in the next section. Next time I conduct a cognitive walkthrough, I think I would ask more questions specific to my design that would lead to more constructive criticism and feedback.
 
 From the cognitive walkthrough, I found that:
 
